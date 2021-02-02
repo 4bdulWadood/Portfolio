@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.6339303f.chunk.css",
+    "main.js": "/Portfolio/static/js/main.3b253c8a.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.3b253c8a.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.e440ee5a.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e440ee5a.js.map",
+    "static/js/2.988301eb.chunk.js": "/Portfolio/static/js/2.988301eb.chunk.js",
+    "static/js/2.988301eb.chunk.js.map": "/Portfolio/static/js/2.988301eb.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.9fbd39a3a7ecd7f7c703b8841e68fdbf.js": "/Portfolio/precache-manifest.9fbd39a3a7ecd7f7c703b8841e68fdbf.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.6339303f.chunk.css.map": "/Portfolio/static/css/main.6339303f.chunk.css.map",
+    "static/js/2.988301eb.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.988301eb.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.9d109fd4.pdf",
+    "static/media/Tavisha.otf": "/Portfolio/static/media/Tavisha.4a2775dd.otf",
+    "static/media/bg.jpg": "/Portfolio/static/media/bg.e373bc70.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e440ee5a.js",
+    "static/js/2.988301eb.chunk.js",
+    "static/css/main.6339303f.chunk.css",
+    "static/js/main.3b253c8a.chunk.js"
+  ]
+}
